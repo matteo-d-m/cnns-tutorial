@@ -10,7 +10,7 @@ The repository was created and is maintained by the first and corresponding auth
 
 ```bash
 cnns-tutorial/
-├── docs/                      # text documents with Glossary & links
+├── docs/                      # glossary & links to external resources
 ├── files/                     # supplementary files (e.g., images)
 ├── README.md                  # the file you are reading, the information you need
 ├── cnns-tutorial-env.yml      # installation file 
