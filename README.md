@@ -4,7 +4,7 @@ This repository contains Python code and supplementary materials for the paper:
 
 > De Matola, M. & Arcara, G. (2026). Convolutional Neural Network and Neuroscience: A Tutorial Introduction for The Rest of Us
 
-The repository was created and is maintained by [Matteo De Matola](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum).
+The repository was created and is maintained by the first and corresponding author, [Matteo De Matola](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum).
 
 :arrow_right_hook: **Repository structure**
 
