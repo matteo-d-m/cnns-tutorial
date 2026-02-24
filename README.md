@@ -12,7 +12,9 @@ The repository was created and is maintained by [Matteo De Matola](https://webap
 cnns-tutorial/
 ├── docs/                      # text documents with supplementary materials & links
 ├── files/                     # supplementary files (e.g., images)
-└── cnns-tutorial.ipynb        # step-by-step implementation of the paper's contents
+├── README.md                  # the file you are reading, the information you need
+├── cnns-tutorial.ipynb        # step-by-step implementation of the paper's contents
+└── cnns-tutorial-env.yml      # installation file 
 ```
 
 ## Jump To
@@ -55,7 +57,7 @@ If you use Colab, you will not need any installations. Just hit the [![Open In C
 If you use your own computer, you will need a Python installation and a few specific packages. Follow the instructions below to obtain them. 
 
 ### Option 1: Without Using Git
-:point_right: Go straight to point 2 if you already have Python and Jupyter on your computer. 
+:point_right: Go straight to point 2 if you already have Python and Anaconda/Miniconda on your computer. 
 
 1. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
 2. In this repository, click on the green `Code` button, as in the image below. Once you have done that, click on `Download ZIP`
@@ -72,7 +74,7 @@ python -m ipykernel install --user --name cnns-tutorial --display-name "cnns-tut
 Finally, run the command `jupyter notebook cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
 
 ### Option 2: Using Git
-:point_right: Skip point 1 if you already have Python and Jupyter on your computer. 
+:point_right: Skip point 1 if you already have Python and Anaconda/Miniconda on your computer. 
 
 1. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
 2. In a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows), run the following code:
