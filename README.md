@@ -46,7 +46,7 @@ If you choose to ignore the paper but find the notebook useful for your publishe
 ### Supplementary Documents :books: :link:
 In folder `docs` you will find two files: [Glossary](/docs/glossary.md) and [Links](/docs/supplementary-links.md). 
 
-- [Glossary](/docs/glossary.md) contains theoretical introductions to some mathematical and computational tools that are required to understand CNNs in depth, but are usually not found in the toolbox of neuroscience researchers, who mostly come from biomedical and psychological backgrounds. Interested readers are welcome to study the material or follow
+- [Glossary](/docs/glossary.md) contains theoretical introductions to some mathematical and computational tools that are required to understand CNNs in depth, but are usually not found in the toolbox of neuroscience researchers &mdash; who mostly come from biomedical and psychological backgrounds. Interested readers are welcome to study the material or follow
 - [Links](/docs/supplementary-links.md) contains pointers to Internet resources that might be useful for further explorations
 
 ## Installation Instructions
@@ -61,7 +61,7 @@ If you use your own computer, you will need a Python installation and a few spec
 
 1. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
 2. In this repository, click on the green `Code` button, as in the image below. Once you have done that, click on `Download ZIP`
-![Download ZIP](files/where-to-download-zip.png)
+![Download ZIP](files/download-zip.png)
 3. Once the download is complete, extract the folder in a directory of your choice
 4. Open a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows) and run the following code:
 
