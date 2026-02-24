@@ -1,6 +1,6 @@
 # **Convolutional Neural Network and Neuroscience: <br /> A Tutorial Introduction for The Rest of Us**
 
-This repository contains Python code and supplementary materials for the paper:
+This repository contains Python code and Glossary for the paper:
 
 > De Matola, M. & Arcara, G. (2026). Convolutional Neural Network and Neuroscience: A Tutorial Introduction for The Rest of Us
 
@@ -10,7 +10,7 @@ The repository was created and is maintained by the first and corresponding auth
 
 ```bash
 cnns-tutorial/
-├── docs/                      # text documents with supplementary materials & links
+├── docs/                      # text documents with Glossary & links
 ├── files/                     # supplementary files (e.g., images)
 ├── README.md                  # the file you are reading, the information you need
 ├── cnns-tutorial-env.yml      # installation file 
@@ -44,10 +44,10 @@ The notebook includes Python code to implement all the steps of De Matola & Arca
 If you choose to ignore the paper but find the notebook useful for your published work, we still require you cite us (see [Credits](#credits)).
 
 ### Supplementary Documents :books: :link:
-In folder `docs` you will find two files: [Supplementary Materials](/docs/supplementary-materials.md) and [Supplementary Links](/docs/supplementary-links.md). 
+In folder `docs` you will find two files: [Glossary](/docs/glossary.md) and [Links](/docs/supplementary-links.md). 
 
-- [Supplementary Materials](/docs/supplementary-materials.md) contains theoretical introductions to some mathematical and computational tools that are required to understand CNNs in depth, but are usually not found in the toolbox of neuroscience researchers, who mostly come from biomedical and psychological backgrounds
-- [Supplementary Links](/docs/supplementary-links.md) contains pointers to Internet resources that might be useful for further explorations
+- [Glossary](/docs/glossary.md) contains theoretical introductions to some mathematical and computational tools that are required to understand CNNs in depth, but are usually not found in the toolbox of neuroscience researchers, who mostly come from biomedical and psychological backgrounds. Interested readers are welcome to study the material or follow
+- [Links](/docs/supplementary-links.md) contains pointers to Internet resources that might be useful for further explorations
 
 ## Installation Instructions
 To run `cnns-tutorial.ipynb`, you can either use [Google Colab](https://colab.research.google.com/) or your own computer. 
