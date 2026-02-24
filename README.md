@@ -13,8 +13,8 @@ cnns-tutorial/
 ├── docs/                      # text documents with supplementary materials & links
 ├── files/                     # supplementary files (e.g., images)
 ├── README.md                  # the file you are reading, the information you need
-├── cnns-tutorial.ipynb        # step-by-step implementation of the paper's contents
-└── cnns-tutorial-env.yml      # installation file 
+├── cnns-tutorial-env.yml      # installation file 
+└── cnns-tutorial.ipynb        # step-by-step implementation of the paper's contents
 ```
 
 ## Jump To
