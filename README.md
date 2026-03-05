@@ -1,5 +1,7 @@
 # **Convolutional Neural Networks and Neuroscience: <br /> A Tutorial Introduction for The Rest of Us**
 
+[![DOI](https://zenodo.org/badge/1151619867.svg)](https://doi.org/10.5281/zenodo.18877509)
+
 This repository contains Python code and supplementary materials for the paper:
 
 > De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us
