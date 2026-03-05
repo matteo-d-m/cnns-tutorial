@@ -2,7 +2,7 @@
 
 This repository contains Python code and supplementary materials for the paper:
 
-> De Matola, M. & Arcara, G. (2026). Convolutional Neural Network and Neuroscience: A Tutorial Introduction for The Rest of Us
+> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us
 
 The repository was created and is maintained by the first and corresponding author, [Matteo De Matola](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum).
 
@@ -52,7 +52,7 @@ If you use your own computer, you will need a Python installation and a few spec
 2. In this repository, click on the green `Code` button, as in the image below. Once you have done that, click on `Download ZIP`
 ![Download ZIP](files/download-zip.png)
 3. Once the download is complete, extract the folder in a directory of your choice
-4. Open a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows) and run the following code:
+4. Open a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows) and run the following code (**remember to insert your own directory in the first line**):
 
 ```
 cd <insert the directory where you have extracted the zipped folder>
@@ -60,13 +60,13 @@ conda env create -f cnns-tutorial.yml
 python -m ipykernel install --user --name cnns-tutorial --display-name "cnns-tutorial"
 ```
 
-Finally, run the command `jupyter notebook cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
+Finally, run the command `jupyter lab cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
 
 ### Option 2: Using Git
 :point_right: Skip point 1 if you already have Python and Anaconda/Miniconda on your computer. 
 
 1. Click on [this](https://github.com/vigji/python-cimec-2025/blob/main/docs/python-installation.md) link and follow the instructions until point 1 included (_Install Jupyter in the base environment_). **Do not go any further than that**.
-2. In a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows), run the following code:
+2. In a terminal (if Linux/MacOS) or Anaconda Prompt (if Windows), run the following code (**remember to insert your own directory in the first line**):
 
 ```
 cd <insert the directory where you want to save this project>
@@ -76,7 +76,7 @@ conda env create -f cnns-tutorial.yml
 python -m ipykernel install --user --name cnns-tutorial --display-name "cnns-tutorial"
 ```
 
-Finally, run the command `jupyter notebook cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
+Finally, run the command `jupyter lab cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
 
 ## Credits
 
