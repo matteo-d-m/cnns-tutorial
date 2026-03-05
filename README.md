@@ -82,6 +82,9 @@ python -m ipykernel install --user --name cnns-tutorial --display-name "cnns-tut
 Finally, run the command `jupyter lab cnns-tutorial.ipynb`. This should open `cnns-tutorial.ipynb` in a browser and you should be all set!
 
 ## Credits
+If you find this work useful, you can cite the corresponding paper:
+
+> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us
 
 ## Contacts
 :question: Matteo De Matola ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum), [GitHub](https://github.com/matteo-d-m))
