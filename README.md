@@ -12,6 +12,7 @@ The repository was created and is maintained by the first and corresponding auth
 cnns-tutorial/
 ├── docs/                      # supplementary documents that may be of interest
 ├── files/                     # supplementary files (e.g., images)
+├── LICENSE.md                 # the license for this work (CC BY-NC-ND 4.0)
 ├── README.md                  # the file you are reading, the information you need
 ├── cnns-tutorial-env.yml      # installation file 
 └── cnns-tutorial.ipynb        # step-by-step implementation of the paper's contents
