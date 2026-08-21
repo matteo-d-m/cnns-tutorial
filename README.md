@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/1151619867.svg)](https://doi.org/10.5281/zenodo.18877509)
 
-This repository contains Python code and supplementary materials for the paper:
+This repository contains a tutorial introduction to the theory and practice of convolutional neural networks &mdash; by neuroscientists, for neuroscientists. 
 
-> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us. bioRxiv 2026.03.09.710521
+The material has also been formatted as a paper and published on bioRxiv: 
 
-The repository was created and is maintained by the first and corresponding author, [Matteo De Matola](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum).
+> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us. bioRxiv 2026.03.09.710521. https://doi.org/10.64898/2026.03.09.710521
 
 :arrow_right_hook: **Repository structure**
 
@@ -28,7 +28,7 @@ cnns-tutorial/
 - [Contacts](#contacts)
 
 ## General Facts
-De Matola & Arcara (2026) is a tutorial paper on convolutional neural networks (CNNs) and their use in neuroscience. The paper aims to demystify CNNs in the eyes of neuroscientific researchers that read about them or use them in their work, but did not receive enough technical training to understand their inner workings. 
+This material aims to demystify CNNs in the eyes of neuroscientists that read about them or use them in their work, but have never understood their inner workings. 
 
 All the code is contained in `cnns-tutorial.ipynb`. This is a [Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb): an interactive document that contains a mix of executable code and static text, which can be enriched with mathematical formulas, images and videos.
 
@@ -84,7 +84,7 @@ Finally, run the command `jupyter lab cnns-tutorial.ipynb`. This should open `cn
 ## Credits
 If you find this work useful, you can cite the corresponding paper:
 
-> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us. bioRxiv 2026.03.09.710521
+> De Matola, M. & Arcara, G. (2026). Convolutional Neural Networks and Neuroscience: A Tutorial Introduction for The Rest of Us. bioRxiv 2026.03.09.710521. https://doi.org/10.64898/2026.03.09.710521
 
 ## Contacts
 :question: Matteo De Matola ([UniTN](https://webapps.unitn.it/du/en/Persona/PER0247884/Curriculum), [GitHub](https://github.com/matteo-d-m))
